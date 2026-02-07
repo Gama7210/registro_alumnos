@@ -12,3 +12,6 @@
 - `registrados.php` - Lista de Alumnos Registrados
 - `catalogos.php` - Configuración de catálogos (carreras, turnos)
 - `db.sql` - script para crear la base de datos y datos iniciales
+
+#checar en la opcion de catalogos no esta inactivos algunas opciones como carreras, grados, grupos
+es que ahorita que hice pruebas en automatico se inactivaron todos pero nose si sea cache de mi navegador
